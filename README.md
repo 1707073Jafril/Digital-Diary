@@ -1,7 +1,8 @@
 # Digital Diary
 
 ```text
-Digital Diary is a Django and React-based full-stack web application that allows users to securely save notes, content, passwords, and other confidential information.
+Digital Diary is a Django and React-based full-stack web application that allows users to  
+securely save notes, content, passwords, and other confidential information.
 ```
 ```text
 Features:
