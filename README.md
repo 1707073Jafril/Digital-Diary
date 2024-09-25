@@ -30,3 +30,8 @@ Future Improvements:
     - Data Encryption
     - UI and Functionality Improvement
 ```
+**Install in local PC**
+```text
+To be updated.
+
+```
